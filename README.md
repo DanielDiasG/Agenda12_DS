@@ -8,6 +8,8 @@ div           =       para as divisões
 
 figure        =       para definir uma marcação para a legenda da imagem.
 
+figcaption    =       para adicionar uma legenda sem nenhuma formatação com o conteúdo escrito na tag
+
 img           =       para inserir as imagens 
 
 p             =       para parágrafo
